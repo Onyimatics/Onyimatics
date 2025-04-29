@@ -16,6 +16,8 @@
 
 ## 🚀 About Me
 
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
 - 🎓 MSc Artificial Intelligence @ Birmingham City University (In View)
 - 💻 5+ years experience delivering software solutions
 - 🧠 Passionate about Machine Learning, NLP, and cloud-based deployments
@@ -36,22 +38,24 @@
 
 ### [Semantic Book Recommender](https://github.com/Onyimatics/llm-book-recommender)
 > A smart book recommendation system using LLMs, OpenAI embeddings, and Gradio UI for personalized, emotion- and genre-based book suggestions.  
-> <a href="https://huggingface.co/spaces/Onyimatics/Semantic_Book_Recommender">
+> <p>
+<a href="https://huggingface.co/spaces/Onyimatics/Semantic_Book_Recommender">
     <img alt="HuggingFace Spaces" src="https://img.shields.io/badge/Gradio%20App%20-Running-green?logo=gradio&style=flat-square">
   </a>
   <a href="https://huggingface.co/spaces/Onyimatics/Semantic_Book_Recommender">
     <img alt="HuggingFace Spaces" src="https://img.shields.io/badge/Deployed%20on-Hugging%20Face-blue?logo=huggingface&style=flat-square">
   </a>
-![MIT License](https://img.shields.io/github/license/Onyimatics/llm-book-recommender?color=blue)
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="MIT License" src="https://img.shields.io/github/license/onyimatics/llm-book-recommender?color=blue&style=flat-square">
+  </a>
+  </p>
 
 ### [Multilingual Voice Reporter](https://github.com/Onyimatics/multilingualvoicereporter)
 > AI-powered civic reporting tool: Record voice messages in any language, transcribe, translate, classify, and forward to local councils using Azure services and Streamlit.
 
 > [![Azure](https://img.shields.io/badge/Built%20with-Azure-blue?logo=microsoft-azure)](https://azure.microsoft.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit%20App-Running-green?logo=streamlit)](https://streamlit.io/)
-<a href="https://opensource.org/licenses/MIT">
-    <img alt="MIT License" src="https://img.shields.io/github/license/onyimatics/llm-book-recommender?color=blue&style=flat-square">
-  </a>
+![MIT License](https://img.shields.io/github/license/Onyimatics/llm-book-recommender?color=blue)
 
 ### [Fashion MNIST Classification App](https://github.com/Onyimatics/fashionmnistclassifier)
 > Dockerized Streamlit app for classifying fashion images using a custom-trained CNN with TensorFlow, deployed for public use.
@@ -60,7 +64,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit%20App-Running-green?logo=streamlit)](https://streamlit.io/)
 ![Docker Build](https://img.shields.io/docker/automated/onyimatics/fashion_mnist_classifier)
 ![Docker Pulls](https://img.shields.io/docker/pulls/onyimatics/fashion_mnist_classifier)
-![GitHub Repo license](https://img.shields.io/github/license/onyimatics/fashion_mnist_classification_app)
+![GitHub Repo license](https://img.shields.io/github/license/onyimatics/fashion_mnist_classification_app?color=blue)
 
 ---
 
