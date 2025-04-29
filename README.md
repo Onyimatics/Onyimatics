@@ -21,16 +21,111 @@
 - 🎓 MSc Artificial Intelligence @ Birmingham City University (In View)
 - 💻 5+ years experience delivering software solutions
 - 🧠 Passionate about Machine Learning, NLP, and cloud-based deployments
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2025 Goals: Large Language Models
+- 📬 How to reach me: [Let's get in touch on LinkedIn!](https://www.linkedin.com/in/onyinye-favour-ezike/)
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
 - 🌍 Based in Coventry, UK
-
+<!-- ### Blogs posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 
 ## 🛠️ Skills & Tools
 
-**AI/ML:** Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, LangChain, OpenAI API, Azure AI, NLP, CNNs, LSTM  
+<!-- **AI/ML:** Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, LangChain, OpenAI API, Azure AI, NLP, CNNs, LSTM  
 **Software Engineering:** Java (Spring Boot), PHP (Laravel), JavaScript (Angular, React, Node.js), REST APIs, Microservices  
 **Databases:** MySQL, PostgreSQL, MongoDB, OracleDB  
-**DevOps & Cloud:** Docker, Microsoft Azure, Streamlit, Gradio, Git, CI/CD (Jenkins, CircleCI, TravisCI), Jupyter
+**DevOps & Cloud:** Docker, Microsoft Azure, Streamlit, Gradio, Git, CI/CD (Jenkins, CircleCI, TravisCI), Jupyter -->
+
+<p style="display: inline-block;" align="center">
+
+  <kbd>
+    <kbd>AI/ML</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter"/>
+    <img width="70px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="scikit-learn"/>
+    <!-- For LangChain and OpenAI, use shields.io badges since devicon doesn't have these -->
+    <img src="https://img.shields.io/badge/LangChain-blue?logo=python&logoColor=white&style=flat" alt="LangChain" height="30"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat" alt="OpenAI" height="30"/>
+  </kbd>
+
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"/>
+  </kbd>
+
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+  </kbd>
+
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"/>
+  </kbd>
+
+
+  <kbd>
+    <kbd>Database</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="OracleDB"/>
+  </kbd>
+
+  <kbd>
+    <kbd>System, Networking & Deployment</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" title="Heroku"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" title="Streamlit"/>
+    <img src="https://img.shields.io/badge/Gradio-FF6F61?logo=gradio&logoColor=white&style=flat" alt="Gradio" height="30"/>
+  </kbd>
+
+  <kbd>
+    <kbd>Terminal Scripts</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
+  </kbd>
+
+  <kbd>
+    <kbd>Tools</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" title="WebStorm"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter"/>
+  </kbd>
+
+</p>
+
 
 ---
 
