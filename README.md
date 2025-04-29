@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 🎓 MSc Artificial Intelligence @ Birmingham City University (In View)
-- 💻 5+ years experience delivering software and AI-powered solutions
+- 💻 5+ years experience delivering software solutions
 - 🧠 Passionate about Machine Learning, NLP, and cloud-based deployments
 - 🌍 Based in Coventry, UK
 
@@ -49,7 +49,9 @@
 
 > [![Azure](https://img.shields.io/badge/Built%20with-Azure-blue?logo=microsoft-azure)](https://azure.microsoft.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit%20App-Running-green?logo=streamlit)](https://streamlit.io/)
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+<a href="https://opensource.org/licenses/MIT">
+    <img alt="MIT License" src="https://img.shields.io/github/license/onyimatics/llm-book-recommender?color=blue&style=flat-square">
+  </a>
 
 ### [Fashion MNIST Classification App](https://github.com/Onyimatics/fashionmnistclassifier)
 > Dockerized Streamlit app for classifying fashion images using a custom-trained CNN with TensorFlow, deployed for public use.
