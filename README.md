@@ -1,12 +1,13 @@
 <!-- Banner or profile image (optional) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Onyimatics.png" width="120" alt="Profile Picture">
 </p>
 
 <h1 align="center">Hi, I'm Favour Onyinye Ezike 👋</h1>
 <p align="center">
   MSc Artificial Intelligence candidate | Software Engineer | AI Solution Builder
-</p>
+</p> -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=800080800080&size=30&lines=Hey!+It's+Onyinye+Favour+Ezike!+👋;I'm+an+AI+Enthusiast;I'm+a+Software+Engineer;I'm+a+Back+End+Engineer;I'm+a+Full+Stack+Engineer;)
 
 ---
 
@@ -35,7 +36,7 @@
 
 ### [Semantic Book Recommender](https://github.com/Onyimatics/llm-book-recommender)
 > A smart book recommendation system using LLMs, OpenAI embeddings, and Gradio UI for personalized, emotion- and genre-based book suggestions.  
->   <a href="https://huggingface.co/spaces/Onyimatics/Semantic_Book_Recommender">
+> <a href="https://huggingface.co/spaces/Onyimatics/Semantic_Book_Recommender">
     <img alt="HuggingFace Spaces" src="https://img.shields.io/badge/Gradio%20App%20-Running-green?logo=gradio&style=flat-square">
   </a>
   <a href="https://huggingface.co/spaces/Onyimatics/Semantic_Book_Recommender">
