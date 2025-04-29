@@ -7,16 +7,16 @@
 <p align="center">
   MSc Artificial Intelligence candidate | Software Engineer | AI Solution Builder
 </p> -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=800080800080&size=30&lines=Hey!+It's+Onyinye+Favour+Ezike!+👋;I'm+an+AI+Enthusiast;I'm+a+Software+Engineer;I'm+a+Back+End+Engineer;I'm+a+Full+Stack+Engineer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=800080800080&size=30&lines=Hey!+It's+Onyinye+Favour+Ezike!+👋;I'm+an+AI+Enthusiast!;I'm+a+Software+Engineer!;I'm+a+Back+End+Engineer!;I'm+a+Full+Stack+Engineer!;)
 
 ---
 
 > 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Onyimatics&color=dc143c) -->
 
-## 🚀 About Me
-
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
+## 🚀 About Me
 
 - 🎓 MSc Artificial Intelligence @ Birmingham City University (In View)
 - 💻 5+ years experience delivering software solutions
