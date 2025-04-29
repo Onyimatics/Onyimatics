@@ -98,13 +98,31 @@
 ---
 
 <!-- GitHub Stats (optional, requires public profile) -->
+
+<p align="center"><img src="https://badges.pufler.dev/visits/Onyimatics/Onyimatics?style=for-the-badge"/> <img src="https://badges.pufler.dev/repos/Onyimatics/?style=for-the-badge"/>
+</p>
+<p align="center"><img src="https://badges.pufler.dev/commits/monthly/Onyimatics"/></p>
+
+</p>
+  </a>
+<h2 align="center">My Github Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onyimatics&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyimatics&layout=compact&theme=default" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onyimatics&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Onyimatics&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Onyimatics&theme=holi-theme">
 </p>
 
 ---
 
 ![](https://hit.yhype.me/github/profile?account_id=47529849)
 
-<sub>Last updated: April 2025</sub>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Wave" />
+</div>
+
+<p align="center"><sub>Last updated: April 2025</sub></p>
+
