@@ -145,14 +145,14 @@
   </a>
   </p>
 
-### [Multilingual Voice Reporter](https://github.com/Onyimatics/multilingualvoicereporter)
+### [Multilingual Voice Reporter](https://github.com/Onyimatics/multilingual_voice_reporter)
 > AI-powered civic reporting tool: Record voice messages in any language, transcribe, translate, classify, and forward to local councils using Azure services and Streamlit.
 
 > [![Azure](https://img.shields.io/badge/Built%20with-Azure-blue?logo=microsoft-azure)](https://azure.microsoft.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit%20App-Running-green?logo=streamlit)](https://streamlit.io/)
 ![MIT License](https://img.shields.io/github/license/Onyimatics/llm-book-recommender?color=blue)
 
-### [Fashion MNIST Classification App](https://github.com/Onyimatics/fashionmnistclassifier)
+### [Fashion MNIST Classification App](https://github.com/Onyimatics/fashion_mnist_classification_app)
 > Dockerized Streamlit app for classifying fashion images using a custom-trained CNN with TensorFlow, deployed for public use.
 
 > [![Render](https://img.shields.io/badge/Live%20Demo-Render-brightgreen?style=for-the-badge&logo=render)](https://fashion-mnist-classification-app.onrender.com/)
