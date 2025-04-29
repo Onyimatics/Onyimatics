@@ -14,9 +14,9 @@
 > 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Onyimatics&color=dc143c) -->
 
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
 ## 🚀 About Me
+
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 - 🎓 MSc Artificial Intelligence @ Birmingham City University (In View)
 - 💻 5+ years experience delivering software solutions
